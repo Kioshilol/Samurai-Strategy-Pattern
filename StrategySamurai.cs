@@ -16,6 +16,7 @@ namespace ConsoleApp3
             else
             {
                 war.SetAttacker(new Berserk());
+                war.SetAttacker(new Berserk());
             }
 
             war.Attack();
